@@ -8,4 +8,5 @@ def reverse_each_word(string)
   newArray << array_string.pop
 end
 newArray.join(" ")
+return newArray
 end
